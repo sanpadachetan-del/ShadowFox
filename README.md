@@ -1,2 +1,0 @@
-# ShadowFox
-ShadowFox AIML Internship
